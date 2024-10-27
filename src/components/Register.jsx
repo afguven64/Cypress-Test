@@ -8,14 +8,14 @@ const initialValues={
     email:"",
     password:""
 }
-/*
+
 export const errorMessages = {
     ad:"Adınızı en az 3 karakter giriniz!",
     soyad:"Soyadınızı en az 3 karakter giriniz!",
     email:"Geçerli bir email giriniz!",
     password:"En az 8 karakter, bir büyük harf, bir küçük harf, bir rakam ve bir sembol içeren bir şifre giriniz",
 }
-*/
+
 export default function Register() {
 
 
