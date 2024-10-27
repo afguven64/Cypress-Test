@@ -18,7 +18,7 @@ export const errorMessages = {
 
 export default function Register() {
 
-
+/*
     const [formData, setFormData] = useState(initialValues);
     const [id, setId] = useState("");
 
@@ -174,6 +174,8 @@ export default function Register() {
         <CardFooter data-cy="res-message">ID: {id}</CardFooter>
     </Card>
     );
+
+ */
 }
 
 
