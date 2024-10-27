@@ -1,5 +1,5 @@
 import {errorMessages} from "../../src/components/Register.jsx";
-/*
+
 describe('Register Page', () => {
   beforeEach(() => {
     cy.visit('http://localhost:5173/')
@@ -78,4 +78,4 @@ describe('Register Page', () => {
 
     });
   });
-});*/
+});
